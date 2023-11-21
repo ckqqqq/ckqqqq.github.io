@@ -1,19 +1,21 @@
 baseurl:
-url: https://chauby.github.io
-title: Chaobin
-subtitle: "The sandglass remembers the time we mislay"
-description: "Chauby's personal page"
+url: https://ckqqqq.github.io
+title: Keqi
+subtitle: "Always be ready to seize chances."
+description: "ckqqqq's personal page"
 date_format: "ordinal"
 # timezone: Asia/Chengdu
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
-author: Chauby
-organization: UESTC
-organization_url: http://www.uestc.edu.cn
-github_username: Chauby
-location: Chengdu, China
-email: chaubyZou@163.com
+# Always be ready to seize chances
+
+author: ckqqqq
+organization: Beijing University of Posts and Telecommunications (BUPT)
+organization_url: http://www.bupt.edu.cn
+github_username: ckqqqq
+location: Beijing, China
+email: ckqqqq@bupt.edu.cn
 
 # Navigation
 navs:
@@ -68,7 +70,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: chauby/chauby.github.io
+repository: ckqqqq/ckqqqq.github.io
 
 # Search
 simple_jekyll_search:

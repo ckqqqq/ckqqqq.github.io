@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 description: Time flies
-keywords: Chauby, Chaobin Zou, CV
+keywords: Keqi, Keqi Chen, CV
 comments: true
 menu: Curriculum Vitae
 permalink: /cv/
@@ -16,14 +16,14 @@ I have published some papers [[Google Scholar]](https://scholar.google.com.hk/ci
 
 ## Social
 
-- 知乎@[沙漏](https://zhihu.com/people/zou-you-50)
-- [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=etqLTR8AAAAJ)
-- [Research Gate](https://www.researchgate.net/profile/Chaobin-Zou)
-- Github:[Chauby](https://github.com/chauby)
+<!-- - 知乎@[沙漏](https://zhihu.com/people/zou-you-50) -->
+- [Google Scholar](https://scholar.google.com.hk/)
+- [Research Gate](https://www.researchgate.net/)
+- Github:[ckqqqq](https://github.com/)
 
 ## Contact
 
-- Email: chaubyZou@163.com
+- Email: ckqqqq@edu.bupt.cn
 
 ## Research Interests
 
