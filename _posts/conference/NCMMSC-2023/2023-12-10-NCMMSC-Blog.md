@@ -1,6 +1,6 @@
 ﻿---
 layout: oral
-title: NCMMSC 23th ()
+title: NCMMSC-Blog
 categories: Conference
 description: The Presentation of NCMMSC 
 keywords: Oral, NCMMSC 
