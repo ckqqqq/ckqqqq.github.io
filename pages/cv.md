@@ -11,7 +11,7 @@ permalink: /cv/
 
 I am currently a undergraduate in Beijing University of Posts And Telecommunications (BUPT) [[link]](https://www.bupt.edu.cn/).
 In the past 2 years, my main research topics are about the emotional support dialog system, some of them has been applied to the mental patients [[link]](TODOLink).
-I am also interested in system interactions among Large Language Models (LLM), such as swarm intelligence, self-supervised learning and LLM alignment.
+I am also interested in the theories and mechanisms of interactions among Large Language Models (LLM), such as swarm intelligence, self-supervised learning, and LLM alignment.
 I have published some papers . You can download\preview my papers at here [[link]](TODOLINK).
 
 ## Social
@@ -63,3 +63,4 @@ I have published some papers . You can download\preview my papers at here [[link
 - 2014: National Scholarship for Undergraduate students, UESTC. -->
 <!-- - 2013: First class Scholarship for Undergraduate students, UESTC.
 - 2012: National Scholarship for Undergraduate students, UESTC. -->
+

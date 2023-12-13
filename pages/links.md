@@ -9,6 +9,6 @@ permalink: /links/
 ---
 
 ## links
-- [UESTC](http://www.bupt.edu.cn)
+- [BUPT](http://www.bupt.edu.cn)
 
 ## Public pages
