@@ -10,7 +10,7 @@ permalink: /cv/
 <br>
 
 I am currently a undergraduate in Beijing University of Posts And Telecommunications (BUPT) [[link]](https://www.bupt.edu.cn/).
-My research interests mainly focus on application-driven AI research.
+My research interests mainly focus on application-driven natural language processing.
 
 My current research revolves around topics related to LLMs-enhanced emotional dialog. [[link]](TODOLink). I am also interested in the theories and mechanisms of interactions among LLMs, such as swarm intelligence, self-supervised learning, and LLM alignment.
 I have published some papers . You can download \ preview my papers by this link [[link]](TODOLINK).
