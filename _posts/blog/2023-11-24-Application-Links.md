@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Updating CV for 2024 fall
+title: Update Resume for 2024 Fall
 categories: blog
-description: I will update my personal information at this paper.
+description: I will update my personal information on this paper, such as the status of my papers, new internship programs, and other information.
 keywords: AI Papers, Publications
 ---
 
@@ -10,13 +10,11 @@ keywords: AI Papers, Publications
 I will update my personal information on this page, such as the status of my papers, new internship programs, and other information.
 # Publications
 
-## Paper I: Emotional Support Dialog System Through Recursive Interactions Among Large Language Models (Springer CCIS )
-
+## Paper I
+Emotional Support Dialog System Through Recursive Interactions Among Large Language Models (Springer CCIS )
 ### Abstract
 
 ![Abstract](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/tmpA3AA.png)
-
-Emotional Support is one of the crucial abilities for multi-turn conversations, especially in the tasks of counseling and mental health support. Recent advancements in large language models (LLMs) have shown their significant potential in emotional support conversations. However, despite the impressive reasoning capabilities and extensive knowledge of LLMs, they fall short in using strategy and achieving overall goals in multi-turn counseling conversations. Such issues make LLMs difficult to apply directly to multi-turn emotional support conversations. To address these limitations, we propose the Supportive Psychotherapy Dialog System (STDS), which is based on widely-accepted supportive psychotherapy in mental health. Our system first employs an interactive framework that integrates both the Domain-Specific LLM and the Foundational LLM. The former is equipped with domain knowledge of emotional support strategy, while the latter boasts strong reasoning capabilities and world knowledge. By interacting, our framework synergistically leverages the strengths of both models. Furthermore, we have integrated recursive units to maintain the continuity of dialogue strategy, working toward the overall goals of the entire conversation. The experiment was conducted using the open-source dataset ESConv, and the results showed that our system's responses have improved in terms of empathy, coherence, and helpfulness when compared to baseline models. Additionally, our approach exhibited an enhanced ability to establish rapport with clients, thereby improving the effectiveness of emotional support through supportive psychotherapy strategy.
 
 
 ### System Architecture
@@ -28,7 +26,7 @@ Emotional Support is one of the crucial abilities for multi-turn conversations, 
 
 ### Case Study
 <center>
-    <img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/chat.png" alt="picture not found" style="zoom:40%;" />
+    <img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/chat.png" alt="picture not found" style="zoom:20%;" />
     <br>
 </center>
 
