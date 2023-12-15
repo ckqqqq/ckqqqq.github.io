@@ -11,7 +11,9 @@ I will update my personal information on this page, such as the status of my pap
 # Publications
 
 ## Paper I
+
 Emotional Support Dialog System Through Recursive Interactions Among Large Language Models (Springer CCIS )
+
 ### Abstract
 
 ![Abstract](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/tmpA3AA.png)
