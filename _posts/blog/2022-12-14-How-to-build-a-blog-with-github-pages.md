@@ -153,7 +153,7 @@ bundle exec jekyll serve -P 5555 --watch
 
 ## 四. 参考
 
-1. 本博客的搭建过程使用了Zhuang Ma &  chaubyZou[ chaubyZou@163.com]的博客主题[码志](https://mazhuang.org)，此处致。
+1. 本博客的搭建过程使用了Zhuang Ma [blog](https://mazhuang.org) &  chaubyZou [blog](https://github.com/chauby/chauby.github.io) 的博客主题，此处致谢。
 
 <center>
     <img src="/assets/images/qrcode.jpg" alt="picture not found" style="zoom:80%;" />
