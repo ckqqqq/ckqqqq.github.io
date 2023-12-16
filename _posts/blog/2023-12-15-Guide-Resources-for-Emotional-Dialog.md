@@ -33,7 +33,7 @@ keywords: AI Papers, Knowledge Base
 * [Diffusion-LM:Xiang Lisa](https://xiangli1999.github.io/)
 * [清华长发哥](https://www.1point3acres.com/bbs/home.php?mod=space&uid=844117&do=thread&type=reply&view=me&from=space)
 
-## Tech Blog Set
+## Tech Blog Sets
 
 * [MIT tech Review](https://www.technologyreview.com/)
 * [Chinese independent blogs](https://github.com/MisterBooo/chinese-independent-blogs)
@@ -54,7 +54,7 @@ https://sahandfer.github.io
 * [Pretrain Model Papers:2021](http://pretrain.nlpedia.ai/)
 * [Lilian Weng's blog](https://lilianweng.github.io/)
 
-## TOOLs / Lessons / Knowledge Base
+## TOOLs / Lessons / Knowledge Bases
 
 * https://github.com/merrier/bupt-all-in-one
 * https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb
