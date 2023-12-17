@@ -1,19 +1,21 @@
 ---
 layout: post
-title: Guide Resources for Emotional Dialog
+title: Guide Resources for Emotional Dialog & Large language Model
 categories: blog
-description: A actively updated list of practical guide resources of Emotional dialog / multi-agent AI system / LLMs, including blogs, github repositories and AI experts.
+description: A actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs.                                    
 keywords: AI Papers, Knowledge Base
 ---
 
 # Guide Resources
+A actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs, including blogs, github repositories and AI experts
 ## AI experts
 ### Friends
 * [xinyang：IEEE fellow in next decade. ](https://github.com/xinyanghuang7/xinyanghuang7.github.io) 
 
 ### Experts \ Labs in LLM
 
-* [LLM:A CMU phd in Agent/LLM](https://frankxfz.me/)
+* [LLM:A CMU phd in Agent/LLM](https://frankxfz.me/):Oct
+* [LLM:Shunyu Yao:LLM guru/reAct](https://ysymyth.github.io/):Super high quality papers
 * TODO:[LLM:A CMU phd in interactive LLM agents](https://www.zhuhao.me/publications)
 * [LLM:A CMU phd](https://cs.stanford.edu/~myasu/)
 * [LLM:phd:One of alpaca's authors](https://scholar.google.com/citations?hl=en&user=OI0HSa0AAAAJ&view_op=list_works&sortby=pubdate)
@@ -31,7 +33,7 @@ keywords: AI Papers, Knowledge Base
 * [LLM:HKU:Lab](https://wabyking.github.io/old.html)
 * [LLM+Med:Microsoft:Lab](https://www.microsoft.com/en-us/research/publication/can-generalist-foundation-models-outcompete-special-purpose-tuning-case-study-in-medicine/)
 * [Diffusion-LM:Xiang Lisa](https://xiangli1999.github.io/)
-* [清华长发哥](https://www.1point3acres.com/bbs/home.php?mod=space&uid=844117&do=thread&type=reply&view=me&from=space)
+* [清华长发哥](https://www.1point3acres.com/bbs/home.php?mod=space&uid=844117&do=thread&type=reply&view=me&from=space) Todo： Find his blog
 
 ## Tech Blog Sets
 
@@ -53,6 +55,7 @@ https://sahandfer.github.io
 * [LLM papers:2023.08](https://github.com/txsun1997/LMaaS-Papers)
 * [Pretrain Model Papers:2021](http://pretrain.nlpedia.ai/)
 * [Lilian Weng's blog](https://lilianweng.github.io/)
+* [Awesome language agents](https://github.com/ysymyth/awesome-language-agents.git)
 
 ## TOOLs / Lessons / Knowledge Bases
 
@@ -65,3 +68,7 @@ https://sahandfer.github.io
 * http://jalammar.github.io/illustrated-transformer/
 * https://github.com/nouhadziri/DialogEntailment
 * https://github.com/yifeikong/reverse-interview-zh
+
+## Others
+ChaoYang Zhang
+https://dspace.mit.edu/bitstream/handle/1721.1/26861/30690840-MIT.pdf?sequence=2&isAllowed=y
