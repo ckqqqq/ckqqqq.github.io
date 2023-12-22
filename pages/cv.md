@@ -34,11 +34,9 @@ I have published some papers . You can download \ preview my papers by this link
 
 ## Publications
 
-#### Under review 
-
 #### Published
 
-1. TODO Paper-link
+1. You can find the [latest information](https://ckqqqq.github.io/2023/11/24/Application-Links/) about my published papers on this interface, including paper abstracts, download links, and presentation slides
 
 ## Educations
 
