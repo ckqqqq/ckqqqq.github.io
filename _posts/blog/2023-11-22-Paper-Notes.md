@@ -153,3 +153,5 @@ Evaluate
 ### TODO-12-17
 * Practice Oral English and prepare for interview
 * Check the reference papers of  [CoALA](https://github.com/ysymyth/awesome-language-agents?tab=readme-ov-file)
+*  Step1:Finetune
+*  Step2:Framework
