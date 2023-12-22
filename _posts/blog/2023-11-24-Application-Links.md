@@ -9,16 +9,16 @@ keywords: AI Papers, Publications
 <!-- I will update my personal information on this page, which include status of paper, new interns, and so on. -->
 I will update my personal information on this page, such as the status of my papers, new internship programs, and other information.
 # Publications
-
-## Paper I
+## Published
+### Paper I
 
 Emotional Support Dialog System Through Recursive Interactions Among Large Language Models (Springer CCIS )
 
-### Abstract
+#### Abstract
 
 ![Abstract](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/tmpA3AA.png)
 
-### System Architecture
+#### System Architecture
 
 <center>
     <img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/mymodel.png" alt="picture not found" style="zoom:60%;" />
@@ -32,7 +32,7 @@ Emotional Support Dialog System Through Recursive Interactions Among Large Langu
 </center>
 
 
-### Case Study
+#### Case Study
 <center>
     <img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/chat.png" alt="picture not found" style="zoom:20%;" />
     <br>
@@ -44,13 +44,17 @@ Emotional Support Dialog System Through Recursive Interactions Among Large Langu
   	</div>
 </center>
 
-### Paper Link
+#### Paper Link
 If you would like to preview our paper, please click here-> [link](https://drive.google.com/file/d/1I5xA7BCF_-76uwoq4oje8edMpLz2k7JC/view?usp=sharing). And, our paper will be published in the Springer CCIS series of journals within a few weeks
 
-### News
+#### News
 
 12-01 Our paper was accept by NCMMSC 2023！It will be presented as an oral presentation at the 2023 National Conference on Man-Machine Speech Communication.
 
 12-08 I gave a presentation at the NCMMSC 2023. -> [PPT](https://docs.google.com/presentation/d/1kz2o67dos7czjPeO7HKPIEyiRM7acuyE/edit?usp=drive_link&ouid=115413132041558152903&rtpof=true&sd=true)
 
-12-11 Our paper was recommended to Springer Proceedings of Springer Communications in Computer and Information Science [CCIS](https://www.springer.com/series/7899). Our paper will be published in the Springer CCIS series of journals within a few weeks
+12-11 Our paper was recommended to Springer Proceedings of Springer Communications in Computer and Information Science [CCIS](https://www.springer.com/series/7899). Our paper will be published in the Springer CCIS series of journals within a few weeks.
+
+## Under review
+
+A paper submitted to ARR. I will introduce the paper as soon as the review is over.
