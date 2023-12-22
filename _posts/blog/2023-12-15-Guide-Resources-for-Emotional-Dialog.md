@@ -7,7 +7,9 @@ keywords: AI Papers, Knowledge Base
 ---
 
 # Guide Resources
-A actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs, including blogs, github repositories and AI experts
+A actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs, including blogs, github repositories and AI experts.                                                                                                  
+                     
+
 ## AI experts
 ### Friends
 * [xinyang：IEEE fellow in next decade. ](https://github.com/xinyanghuang7/xinyanghuang7.github.io) 
