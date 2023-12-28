@@ -73,6 +73,9 @@ simple_jekyll_search:
   limit: 10 # limitation of the search results to show
 
 # Analytics
-google:
-  analytics_id: G-YYNKT0JD3V
-github: [metadata]
+
+# google_analytics: G-YYNKT0JD3V
+# google:
+#   analytics_id: G-YYNKT0JD3V
+# github: [metadata]
+google_analytics: G-YYNKT0JD3V
