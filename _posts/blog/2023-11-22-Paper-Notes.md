@@ -5,7 +5,15 @@ categories: blog
 description: Hey, welcome to my research notes.
 keywords: AI Papers, Publications
 ---
-## Template
+Welcome! This blog contains my notes on reading papers related to LMs-agents and emotional dialog.
+
+
+
+
+
+​                               
+
+## Markdown Template
 
 这是模板
 
@@ -155,3 +163,27 @@ Evaluate
 * Check the reference papers of  [CoALA](https://github.com/ysymyth/awesome-language-agents?tab=readme-ov-file)
 *  Step1:Finetune
 *  Step2:Framework
+
+### 12-28 
+
+Phase I completed
+
+### Agents: An Open-source Framework for Autonomous Language Agents
+Keyword： multi-Agents, Autonomous Agents
+Link
+
+* Github: https://github.com/aiwaves-cn/agents
+
+* Demo:
+
+   ![image-20231228131805241](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20231228131805241.png)
+  Evaluate：
+
+  ![image-20231228131902233](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20231228131902233.png)
+
+* Usefulness(1~5): 
+
+* Timing: 
+
+* Intensive Reading: 
+Abstract: 

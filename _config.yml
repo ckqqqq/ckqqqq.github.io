@@ -19,24 +19,19 @@ email: ckqqqq@bupt.edu.cn
 
 # Navigation
 navs:
-  -
-    href: /
+  - href: /
     label: Homepage
 
-  -
-    href: /cv/
+  - href: /cv/
     label: CV
 
-  -
-    href: /publications/
+  - href: /publications/
     label: Publications
 
-  -
-    href: /categories/
+  - href: /categories/
     label: Blogs
 
-  -
-    href: /wiki/
+  - href: /wiki/
     label: Wiki
 
   # -
@@ -49,7 +44,7 @@ subscribe_rss: /feed.xml
 # Jekyll
 markdown: kramdown
 kramdown:
-    input: GFM
+  input: GFM
 highlighter: rouge
 paginate: 8
 lsi: false
@@ -57,27 +52,27 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 plugins:
-    - jekyll-github-metadata
-    - rouge
-#     - jekyll-html-pipeline
-    - jekyll-paginate
-    - jekyll-sitemap
-    - jekyll-feed
-    - jemoji
+  - jekyll-github-metadata
+  - rouge
+  #     - jekyll-html-pipeline
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
 #     - jekyll-mentions
 collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
+  wiki:
+    output: true
+    permalink: /wiki/:path/
 
 repository: ckqqqq/ckqqqq.github.io
 
 # Search
 simple_jekyll_search:
-    fulltext: false # full text search enable
-    limit: 10 # limitation of the search results to show
+  fulltext: false # full text search enable
+  limit: 10 # limitation of the search results to show
 
 # Analytics
 google:
-    analytics_id: UA-80669434-1
+  analytics_id: UA-80669434-1
 github: [metadata]

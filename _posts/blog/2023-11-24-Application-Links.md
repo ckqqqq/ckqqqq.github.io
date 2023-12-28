@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Update Resume for 2024 Fall
+title: Dynamic Update Resume for 2024 Fall
 categories: blog
 description: I will update my personal information on this page, such as the status of my papers, new internship programs, and other information.
 keywords: AI Papers, Publications
 ---
 
 <!-- I will update my personal information on this page, which include status of paper, new interns, and so on. -->
-I will update my personal information on this page, such as the status of my papers, new internship programs, and other information.
+Welcome! I am regularly updating this page, adding my personal information from November 2023, including the latest paper submissions, new open-source projects, and other relevant materials. The updated information will serve as a supplement to my existing CV.                                                                                              
 # Publications
 ## Published
 ### Paper I
