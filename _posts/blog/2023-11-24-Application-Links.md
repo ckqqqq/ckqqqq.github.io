@@ -8,7 +8,9 @@ keywords: AI Papers, Publications
 
 <!-- I will update my personal information on this page, which include status of paper, new interns, and so on. -->
 Welcome! I am regularly updating this page, adding my personal information from November 2023, including the latest paper submissions, new open-source projects, and other relevant materials. The updated information will serve as a supplement to my existing CV. 
-                                                    .                                                                                             
+
+*************************************************
+-------------------------------------------------
 # Publications
 ## Published
 ### Paper I
