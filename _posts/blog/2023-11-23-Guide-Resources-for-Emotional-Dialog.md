@@ -11,8 +11,7 @@ A actively updated list of practical guide resources of Emotional dialog & multi
                      
 
 ## AI experts
-### Friends
-* [xinyang：IEEE fellow in next decade. ](https://github.com/xinyanghuang7/xinyanghuang7.github.io) 
+
 
 ### Experts \ Labs in LLM
 
@@ -72,5 +71,10 @@ https://sahandfer.github.io
 * https://github.com/yifeikong/reverse-interview-zh
 
 ## Others
-ChaoYang Zhang
-https://dspace.mit.edu/bitstream/handle/1721.1/26861/30690840-MIT.pdf?sequence=2&isAllowed=y
+* ChaoYang Zhang
+* https://dspace.mit.edu/bitstream/handle/1721.1/26861/30690840-MIT.pdf?sequence=2&isAllowed=y
+### Friends
+* [xinyang：IEEE fellow in next decade. ](https://github.com/xinyanghuang7/xinyanghuang7.github.io)
+*  
+### Classmate
+* [Dr. Meng](https://github.com/HanMeng2004)

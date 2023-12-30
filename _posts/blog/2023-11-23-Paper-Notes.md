@@ -159,6 +159,7 @@ Evaluate
 ![image-20231217164848939](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20231217164848939.png)
 
 ### TODO-12-17
+
 * Practice Oral English and prepare for interview
 * Check the reference papers of  [CoALA](https://github.com/ysymyth/awesome-language-agents?tab=readme-ov-file)
 *  Step1:Finetune
@@ -169,6 +170,7 @@ Evaluate
 Phase I completed
 
 ### Agents: An Open-source Framework for Autonomous Language Agents
+
 Keyword： multi-Agents, Autonomous Agents
 Link
 
@@ -187,3 +189,47 @@ Link
 
 * Intensive Reading: 
 Abstract: 
+
+> TO-DO 12-29
+> Read https://arxiv.org/pdf/2311.16832.pdf
+> Reproduce Code
+> Try Character.ai
+> Finish Dynamic Memory Component
+### CharacterChat
+* Keyword： Personalized Social Support
+
+* Link (https://arxiv.org/abs/2308.10278)
+
+* Github: https://github.com/morecry/CharacterChat
+* Demo: 
+Evaluate
+* Usefulness(1~5): 
+* Timing: 
+* Intensive Reading: 
+Abstract: 
+* 
+
+ Traditional methods such as **Emotional Support Conversations (ESC)** face challenges in effectively addressing a diverse range of individual personalities. In response, we introduce the **Social Support Conversation (S2Conv)** framework. It comprises a series of support **agents** and the **interpersonal** **matching** mechanism, linking individuals with persona-compatible virtual supporters【Same as I thought in August】. Utilizing persona decomposition based on the MBTI (Myers Briggs Type Indicator)【a scale】, we have created the MBTI-1024 Bank, a group that of virtual characters with distinct profiles. Through improved role-playing prompts with behavior preset and dynamic memory, we facilitate the development of the MBTI-S2Conv dataset, which contains conversations between the characters in the MBTI-1024 Bank. Building upon these foundations, we present CharacterChat, a comprehensive S2Conv system, which includes a conversational model driven by personas and memories, along with an **interpersonal matching plugin model** 【Calculate Attention between personality 】 that dispatches the optimal supporters from the MBTI-1024 Bank for individuals with specific personas. Empirical results indicate the remarkable efficacy of CharacterChat in providing personalized social support and highlight the substantial advantages derivedfrom interpersonal matching. The source code is available in https://github.com/morecry/CharacterChat.
+
+## Extended Reading
+
+
+
+## Scaling AI
+### SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling
+
+> 大道至简
+> "Simple is the best"
+
+* Keyword: Scaling AI
+* Link: https://arxiv.org/abs/2312.15166
+* Github: Invalided
+* Demo: https://huggingface.co/upstage/SOLAR-10.7B-v1.0
+* Chinese Blog: https://mp.weixin.qq.com/s/uXkLQGd1J8AYh5I5LwWskQ
+Evaluate
+* Usefulness(1~5): 2
+* Timing: 
+* Intensive Reading: 
+Abstract: 
+* Its method is instinctive and instructive.
+* ![](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20231229151138905.png)
