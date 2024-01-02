@@ -9,13 +9,18 @@ Welcome! This blog contains my notes on reading papers related to LMs-agents and
 
 ---
 
-## Research Note
+# Research Note
+
+> Welcome! This blog is a collection of my notes on papers related to language model agents and the realm of emotional dialogues.
+
+## Markdown Template
 
 > Markdown Note Template
 > 这是模板
 > [Vscode snippets prefix : "paper_note_template"]
 
-### Title 
+```markdown
+### Title
 
 * **Keyword**:
 
@@ -31,12 +36,14 @@ Welcome! This blog contains my notes on reading papers related to LMs-agents and
 * **Timing**: 
 * **Intensive Reading**: 
 
+
 #### Abstract
+```
 
 
-## LLM
+## LLM / LLM-Agent Related Papers
 
-### Title:WEBARENA: A REALISTIC WEB ENVIRONMENT FOR BUILDING AUTONOMOUS AGENTS
+### Title: WEBARENA: A REALISTIC WEB ENVIRONMENT FOR BUILDING AUTONOMOUS AGENTS
 
 Keyword：Web-agent，
 Link：
@@ -66,7 +73,7 @@ Evaluate
   He looks like he wrote a framework/system into two articles.This meod is similar with ReAct.
   ![Alt text](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image.png)
 
-### FIREACT: Toward LANGUAGE AGENT FINE-TUNING
+### Title: FIREACT: Toward LANGUAGE AGENT FINE-TUNING
 
 Keyword: ReACT+ Finetune, Ablation Experiment, LM fine-tuning，
 Link
@@ -248,9 +255,9 @@ Evaluate
 * <font color=red> Proper noun learning</font>: ESC, social support
 Abstract: Traditional methods such as **Emotional Support Conversations (ESC)** face challenges in effectively addressing a diverse range of individual personalities. In response, we introduce the **Social Support Conversation (S2Conv)** framework. It comprises a series of support **agents** and the **interpersonal** **matching** mechanism, linking individuals with persona-compatible virtual supporters【Same as I thought in August】. Utilizing persona decomposition based on the MBTI (Myers Briggs Type Indicator)【a scale】, we have created the MBTI-1024 Bank, a group that of virtual characters with distinct profiles. Through improved role-playing prompts with behavior preset and dynamic memory, we facilitate the development of the MBTI-S2Conv dataset, which contains conversations between the characters in the MBTI-1024 Bank. Building upon these foundations, we present CharacterChat, a comprehensive S2Conv system, which includes a conversational model driven by personas and memories, along with an **interpersonal matching plugin model** 【Calculate Attention between personality 】 that dispatches the optimal supporters from the MBTI-1024 Bank for individuals with specific personas. Empirical results indicate the remarkable efficacy of CharacterChat in providing personalized social support and highlight the substantial advantages derivedfrom interpersonal matching. The source code is available in <https://github.com/morecry/CharacterChat>.
 
-## Extended Reading
+## Extended Reading 
 
-## Scaling AI
+## Scaling LLM
 
 ### SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling
 
