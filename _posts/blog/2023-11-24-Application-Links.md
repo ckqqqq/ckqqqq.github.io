@@ -11,7 +11,7 @@ Welcome! I am regularly updating this page, adding my personal information from 
 
 <!-- ************************************************* -->
 -------------------------------------------------
-# Publications
+# Publication Updates
 ## Published
 ### Paper I
 
@@ -60,4 +60,4 @@ If you would like to preview our paper, please click here-> [link](https://drive
 
 ## Under review
 
-A paper submitted to ARR. I will introduce the paper as soon as the review is over.
+12-15 A paper submitted to [ARR](http://aclrollingreview.org/). I will introduce the paper as soon as the peer review is over.

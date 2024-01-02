@@ -7,6 +7,7 @@ keywords: AI Papers, Knowledge Base
 ---
 
 # Guide Resources
+
 A actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs, including blogs, github repositories and AI experts.                                                                                                  
                      
 
@@ -44,10 +45,10 @@ A actively updated list of practical guide resources of Emotional dialog & multi
 ## Emotional Dialog Resources
 
 * [Emotional Conversation](https://github.com/MaLiN2223/Empathetic-COAI-Papers)
-(http://www.zhuhao.me/)
+(<http://www.zhuhao.me/>)
 * [LINK](https://paperswithcode.com/search?q=author%3AYushan+Qian)
 * [EMPapers-Sahandfer-Prof.Huang](https://github.com/Sahandfer/EMPaper)
-https://sahandfer.github.io
+<https://sahandfer.github.io>
 * [XiaoMi](https://github.com/XiaoMi/emma)
 * Github keyword: Mechat/SMILE/ChatSoul
 
@@ -60,21 +61,25 @@ https://sahandfer.github.io
 
 ## TOOLs / Lessons / Knowledge Bases
 
-* https://github.com/merrier/bupt-all-in-one
-* https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb
-* https://www.promptingguide.ai/introduction/settings
-* https://github.com/datawhalechina/hugging-llm/tree/517d0e02c356affac5f92e7072a28b93c47ccb6e
-* https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md
-* https://github.com/fighting41love/funNLP
-* http://jalammar.github.io/illustrated-transformer/
-* https://github.com/nouhadziri/DialogEntailment
-* https://github.com/yifeikong/reverse-interview-zh
+* <https://github.com/merrier/bupt-all-in-one>
+* <https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb>
+* <https://www.promptingguide.ai/introduction/settings>
+* <https://github.com/datawhalechina/hugging-llm/tree/517d0e02c356affac5f92e7072a28b93c47ccb6e>
+* <https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md>
+* <https://github.com/fighting41love/funNLP>
+* <http://jalammar.github.io/illustrated-transformer/>
+* <https://github.com/nouhadziri/DialogEntailment>
+* <https://github.com/yifeikong/reverse-interview-zh>
 
 ## Others
+
 * ChaoYang Zhang
-* https://dspace.mit.edu/bitstream/handle/1721.1/26861/30690840-MIT.pdf?sequence=2&isAllowed=y
+* <https://dspace.mit.edu/bitstream/handle/1721.1/26861/30690840-MIT.pdf?sequence=2&isAllowed=y>
+
 ### Friends
-* [xinyang：IEEE fellow in next decade. ](https://github.com/xinyanghuang7/xinyanghuang7.github.io)
-*  
+
+* [xinyang：IEEE fellow in next decade.](https://github.com/xinyanghuang7/xinyanghuang7.github.io)
+
 ### Classmate
+
 * [Dr. Meng](https://github.com/HanMeng2004)
