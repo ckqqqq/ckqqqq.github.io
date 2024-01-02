@@ -8,11 +8,14 @@ keywords: AI Papers, Publications
 Welcome! This blog contains my notes on reading papers related to LMs-agents and emotional dialog.
 
 ---
+
+## Research Note
+
 > Markdown Note Template
 > 这是模板
 > [Vscode snippets prefix : "paper_note_template"]
 
-### Title 【】
+### Title 
 
 * **Keyword**:
 
