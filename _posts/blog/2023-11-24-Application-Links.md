@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dynamic Update Resume for 2024 Fall
+title: Dynamic Update Resume for 2024 Fall Application
 categories: blog
 description: I will update my personal information on this page, such as the status of my papers, new internship programs, and other information.
 keywords: AI Papers, Publications
