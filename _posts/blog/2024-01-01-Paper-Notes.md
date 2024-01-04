@@ -54,24 +54,30 @@ Evaluate:
 * **Usefulness(1~5)**: 3
 * **Timing**: 2023.10
 * **Intensive Reading**: No
-Abstract:
+* Abstract:
+
 A useful LLM-base agent that can manipulate Web UI. The demo is interesting.The interaction way between LLM and web is of reference value.
 
 ### Title: Hierarchical Prompting Assists Large Language Model on Web Navigation
 
-Keyword：Web Agent, Hierarchical Prompting, EMNLP fINDINGS
+* Keyword：Web Agent, Hierarchical Prompting, EMNLP fINDINGS
 Link
 
 * **Github**: <https://github.com/robert1003/ash-prompting>
 * **Demo**:  No
-Evaluate
+
+**Evaluate**
+
 * **Usefulness(1~5)**: 4.5
 * **Timing**: Oct 25th, 2023
 * **Intensive Reading**: TODO
-  Abstract:
-  He looks like he wrote a framework/system into two articles.This method is similar with ReAct.
+* Abstract:
 
-![Alt text](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image.png)
+He looks like he wrote a framework/system into two articles.This method is similar with ReAct.
+
+<p align="center">
+<img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image.png" alt="image" style="zoom:80%;" />
+</p>
 
 ### Title: FIREACT: Toward LANGUAGE AGENT FINE-TUNING
 
