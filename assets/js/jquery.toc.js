@@ -4,9 +4,10 @@
   $.fn.toc = function (options) {
     var defaults = {
       noBackToTopLinks: false,
-      title: '文章目录 Contents',
+      title: '文章目录 TOC',
       minimumHeaders: 2,
-      headers: 'h1, h2, h3, h4, h5, h6',
+      headers: 'h1, h2, h3, h4',// 这里是设置TOC层级的地方
+      // headers: 'h1, h2, h3, h4, h5, h6',// 这里是设置TOC层级的地方
       listType: 'ul', // values: [ol|ul]
       showEffect: 'show', // values: [show|slideDown|fadeIn|none]
       showSpeed: 0 // set to 0 to deactivate effect

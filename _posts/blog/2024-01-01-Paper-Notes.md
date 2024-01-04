@@ -23,21 +23,20 @@ Welcome! This blog contains my notes on reading papers related to LMs-agents and
 ### Title
 
 * **Keyword**:
+#### Intensive Reading 
 
-#### Link
+##### Link
 
 * **Github\ArXiv**: 
 
 * **Demo**:  
 
-#### Evaluate
+##### Evaluate
 
 * **Usefulness(1~5)**: 
 * **Timing**: 
-* **Intensive Reading**: 
 
-
-#### Abstract
+##### Abstract
 ```
 
 
@@ -141,14 +140,18 @@ Abstract:
 
 * Supplement
 
-|           | Unique human capacities                  | Shared | LLM's capacities |
+
+
+|           | Unique Human Capacities               | Shared | LLM Capacities |
 | --------- | ---------------------------------------- | ------ | ---------------- |
 | Math      | Counting、Ciphers、Linear Functions      |        | COT?             |
 | Language  | Word/letter reverse、Acronyms、Pig latin |        | World knowledge  |
 | Physical  | LeCun's world models                     |        |                  |
 | Training  | Efficiency                               |        |                  |
 | Frequency |                                          |        |                  |
-(failures of planning in arithmetic and text generation)
+|(failures of planning in arithmetic and text generation)||||
+
+
 
 Effects on the performance of large language models that are attributable to the fact that they are statistical next-word prediction systems.
 
@@ -176,18 +179,7 @@ Evaluate
 
 ![image-20231217164848939](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20231217164848939.png)
 
-### TODO-12-17
-
-* Practice Oral English and prepare for interview
-* Check the reference papers of  [CoALA](https://github.com/ysymyth/awesome-language-agents?tab=readme-ov-file)
-* Step1:Finetune
-* Step2:Framework
-
-### 12-28
-
-Phase I completed
-
-### Agents: An Open-source Framework for Autonomous Language Agents 【Multi-Agents】
+### Title: Agents: An Open-source Framework for Autonomous Language Agents 【Multi-Agents】
 
 Keyword： multi-Agents, Autonomous Agents
 Link
@@ -214,7 +206,7 @@ Abstract:
 > Try Character.ai
 > Finish Dynamic Memory Component
 
-### AgentVerse 【Multi-Agent】
+### Title: AgentVerse 【Multi-Agent】
 
 * **Keyword**：Multiple LLM-based agents for task-solving and simulation,
   Link
@@ -273,46 +265,50 @@ Abstract:
 
 * <font color=red> Proper noun learning</font>: ESC, social support
 
-  #### Abstract:
+#### Intensive Reading: yes
+
+##### Abstract
 
 * Traditional methods such as **Emotional Support Conversations (ESC)** face challenges in effectively addressing a diverse range of individual personalities. In response, we introduce the **Social Support Conversation (S2Conv)** framework. It comprises a series of support **agents** and the **interpersonal** **matching** mechanism, linking individuals with persona-compatible virtual supporters【Same as I thought in August】. Utilizing persona decomposition based on the MBTI (Myers Briggs Type Indicator)【a scale】, we have created the MBTI-1024 Bank, a group that of virtual characters with distinct profiles. Through improved role-playing prompts with behavior preset and dynamic memory, we facilitate the development of the MBTI-S2Conv dataset, which contains conversations between the characters in the MBTI-1024 Bank. Building upon these foundations, we present CharacterChat, a comprehensive S2Conv system, which includes a conversational model driven by personas and memories, along with an **interpersonal matching plugin model** 【Calculate Attention between personality 】 that dispatches the optimal supporters from t**he MBTI-1024 Bank** for individuals with specific personas. Empirical results indicate the remarkable efficacy of CharacterChat in providing personalized social support and highlight the substantial advantages derivedfrom interpersonal matching. The source code is available in <https://github.com/morecry/CharacterChat>.
 
-  #### Methodology
+##### Methodology
 
-  Within the S2Conv framwork
+Within the S2Conv framwork
 
-  * Characters profiles include the **persona（Name, Gender, Tone, Personality） and dynamic memory**
-  * Memory:
-    * Housing multifaceted factual knowledge as sociated with a character-> as contextual reference
-    * triggers for seekers mental health problem
-    * 就是使用memory作为事实验证
-    * **Supporters Sharing similar background with seekers** [interesting]
+* Characters profiles include the **persona（Name, Gender, Tone, Personality） and dynamic memory**
+* Memory:
+  * Housing multifaceted factual knowledge as sociated with a character-> as contextual reference
+  * triggers for seekers mental health problem
+  * 就是使用memory作为事实验证
+  * **Supporters Sharing similar background with seekers** [interesting]
 
-  ##### Difference between Information Support and Emotional Support
+###### Difference between Information Support and Emotional Support
 
-   ![image-20240102152650148](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102152650148.png)
+  ![image-20240102152650148](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102152650148.png)
 
-  #### Data
+##### Data
 
-  * Create characters with chat GPT
+* Create characters with chat GPT
 
-    ![image-20240104104102283](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240104104102283.png)
-    
-    ![image-20240102152405520](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102152405520.png)
+  ![image-20240104104102283](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240104104102283.png)
+  
+  ![image-20240102152405520](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102152405520.png)
 
-##### Offered Dataset
+###### Offered Dataset
 
 >  MBTI-S2Conv dataset
 
 <img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102153139639.png" alt="image-20240102153139639" style="zoom:33%;" />
 
-##### Evaluate MBTI-S2Conv【典型的认知行为疗法】
+##### Evaluation Using AI
+
+Evaluate MBTI-S2Conv【典型的认知行为疗法】
 
 * **Emotional Improvement**: Does the conversation improve the emotional state of the seeker?
 * **Problem Solving**: Is the problem solved after conversation?
 * **Active Engagement**: Is the seeker actively **engaged in the conversation？**【interesting】
 
-#### Overview
+##### Overview
 
 ![image-20240102153715973](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102153715973.png)
 
@@ -322,7 +318,7 @@ Abstract:
 
 > And this paper also evaluate How different personalities can influent the emotional dialog 
 
-#### Highlights
+##### Highlights
 
 * **Evaluation using ChatGPT and other LLMs**
 
@@ -332,11 +328,10 @@ Abstract:
 
 * **How to expand dataset with ChatGPT**
 
-  
 
+<div style="text-align:center;">
 <img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102155000886.png" alt="image-20240102155000886" style="zoom:25%;" />
-
-
+</div>
 
 ## Extended Reading
 
@@ -344,7 +339,7 @@ Abstract:
 
 > Autonomous agents are software programs which respond to states and events in their environment independent from direct instruction by the user or owner of the agent, but acting on behalf and in the interest of the owner. 
 
-##### Reference
+**Reference**
 
 * General autonomous agents capable of reasoning and decision-making in a variety of environments
   (Wooldridge & Jennings, 1995) have been of longstanding interest in the field of artificial intelli-
@@ -352,13 +347,12 @@ Abstract:
 
 * [Autonomous Agents - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/B0080430767005349)
 
-##### Abstract
-
 Autonomous agents are software programs which **respond to states and events in their environment independent** from direct instruction by the user or owner of the agent, but acting **on behalf** and **in the interest of the owner**. The term agent is not defined precisely, and agent software can range from simple programs composed of a small number of rules to large and complex systems. Agent technology was developed in artificial intelligence (AI) research, and can include complex AI techniques. Important application areas are those where the human user can benefit from continuous data analysis, monitoring of data streams and large databases, and where routine reactions to events are required. Many applications are related to user interface technology and the Internet**. A weak position sees agents as tools** which relieve humans from routine tasks suited to computational solutions, but there is also a strong position which asserts that agents can be constructed to mimic or even surpass cognitive functions of the human.
 
 ### How to Scaling LLM
 
-### SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling
+#### SOLAR 10.7B
+**SOLAR 10.7B Scaling Large Language Models with Simple yet Effective Depth Up-Scaling**
 
 > 大道至简
 > "Simple is the best"
@@ -375,28 +369,25 @@ Evaluate
 * Its method is instinctive and instructive.
 * ![](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20231229151138905.png)
 
-### On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs
-
-### Title： On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs
+#### Title： On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs
 
 * **Keyword**: How to evaluate the psychological Portrayal画像 of LLMs, interesting 
 
-#### Link
+##### Link
 
 * **Github\ArXiv\ OpenReview**: 
 
 * **Demo**:  
 
-#### Evaluate
+##### Evaluate
 
 * **Usefulness(1~5)**: 3
 * **Timing**: 
 * **Intensive Reading**: 
 
-#### Abstract
+##### Abstract
 
 Large Language Models (LLMs) have recently showcased their remarkable capacities, not only in natural language processing tasks but also across diverse domains such as clinical medicine, legal consultation, and education. LLMs become more than mere applications, evolving into assistants capable of addressing diverse user requests. This narrows the distinction between human beings and artificial intelligence agents, raising intriguing questions regarding the potential manifestation of personalities, temperaments, and emotions within LLMs. In this paper, we propose a framework, PPBench, for **evaluating diverse psychological aspects of LLMs**. Comprising thirteen scales commonly used in clinical psychology, **PPBench further classifies these scales into four distinct categorie**s: **personality traits,** interpersonal relationships, motivational tests, and emotional abilities. Our study examines five popular models, **namely text-davinci-003, ChatGPT, GPT-4, LLaMA-2-7b, and LLaMA-2-13b.** Additionally, we employ a jailbreak approach to bypass the safety alignment protocols and test the intrinsic natures of LLMs. We have made PPBench openly accessible via The link is hidden due to anonymity. For reviewers, please refer to the supplementary materials.
-
 
 
 ### Markdown Template
@@ -422,16 +413,14 @@ Large Language Models (LLMs) have recently showcased their remarkable capacities
 #### Abstract
 ```
 
-
-
 ## Ideas
 
-> Propose a new metrics to calculate efficiency [result / tokens, GPU ,step]
+* Propose a new metrics to calculate efficiency [result / tokens, GPU ,step]
 
 ## Comments / tips
 
-> OpenReview is a good website, with abundant review \ rebuttal. Interesting!
-> The number of emotional dialog related papers is so limited! (after 2023) Ah! ChatGPT eliminate many small domain researches.
+* OpenReview is a good website, with abundant review \ rebuttal. Interesting!
+* The number of emotional dialog related papers is so limited! (after 2023) Ah! ChatGPT eliminate many small domain researches.
 <!-- Emotional Dialog related papers are scarce -->
 <!-- 做个屁的共情对话，赶紧润了，妈的 -->
 <!-- 尽快测试agentVerse 吧，赶紧抄一个做可视化 -->

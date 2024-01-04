@@ -16,7 +16,7 @@ Welcome! I am regularly updating this page, adding my personal information from 
 
 ## Published
 
-### Paper I
+### Paper I: Emotional Support Dialog System Through Recursive Interactions Among Large Language Models(Springer CCIS)
 
 Emotional Support Dialog System Through Recursive Interactions Among Large Language Models (Springer CCIS )
 
