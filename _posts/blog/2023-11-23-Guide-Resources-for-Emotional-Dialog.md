@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guide Resources for Emotional Dialog & Large language Model
+title: Research Resources for Emotional Dialog & Large language Model
 categories: blog
 description: A actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs.                                    
 keywords: AI Papers, Knowledge Base
@@ -8,14 +8,18 @@ keywords: AI Papers, Knowledge Base
 
 # Guide Resources
 
-A actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs, including blogs, github repositories and AI experts.                                                                                                  
-                     
+A actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs, including blogs, github repositories and AI experts.
+
+---------
+
 
 ## AI experts
 
 
+
 ### Experts \ Labs in LLM
 
+* [A former Tsinghua PHD/MBZUAI Researcher on multiple LM agents](https://yushengsu-thu.github.io/): Yusheng Su
 * [LLM:A CMU phd in Agent/LLM](https://frankxfz.me/):Oct
 * [LLM:Shunyu Yao:LLM guru/reAct](https://ysymyth.github.io/):Super high quality papers
 * TODO:[LLM:A CMU phd in interactive LLM agents](https://www.zhuhao.me/publications)
@@ -76,6 +80,12 @@ A actively updated list of practical guide resources of Emotional dialog & multi
 * ChaoYang Zhang
 * <https://dspace.mit.edu/bitstream/handle/1721.1/26861/30690840-MIT.pdf?sequence=2&isAllowed=y>
 
+### How to write a excellent rebuttal/ review
+
+* [Excellent rebuttal](https://openreview.net/forum?id=3CIQIYNGlp)
+* [OpenReview can view rebuttal/official review](https://openreview.net/forum?id=EHg5GDnyq1)
+* PS: Openreview is much clear than paper！It help you to catch up the latest trend.
+* ![image-20240102185458660](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102185458660.png)
 ### Friends
 
 * [xinyang：IEEE fellow in next decade.](https://github.com/xinyanghuang7/xinyanghuang7.github.io)

@@ -12,11 +12,16 @@ This blog records the problems I encountered and the knowledge I learned in soft
 ## Python 
 ### Style Philosophy for Python Code
 * One of coding's key sight is that code is read much**more often** than it is written. 
-* "Readability counts！"
-* Readability is much more important than code length & showing off coding skills & slight efficiency improvement.
-* Consistency is the foundation of the readability. 
 
-#### Name Conventions： 
+* "Readability counts！"
+
+* Readability is much more important than code length & showing off coding skills & slight efficiency improvement.
+
+* Consistency is the foundation of the readability.
+
+   
+
+#### Name Conventions
 
 
 
@@ -521,6 +526,15 @@ In traceback, following information is provided. And  the philosophy of debug is
 | **Call Stack Information:** | **Stack1 -Stack2 - ....**         | Extract the function call **sequence and positions from the traceback.** Traversing the traceback helps pinpoint the location of the error.         | Search from your own files \ Sometimes error isn't from the bottom stacks. The error may be transferred to bottom an than found in bottom.（python have not type check） |
 | **File and Line Numbers:**  | **Agent_UI.py  & lineXXX**        | The traceback provides the file name and line number where the error occurred, facilitating quick identification of the problematic code.           | Please do not blindly  believe line number and offered links. Because the line numbers indicate the path of calling functions rather than the error locations            |
 | **Context Information:**    | **modelType**                     | Tracebacks may also include additional context, such as the values of local variables, aiding further in the debugging process.                     | Search key words                                                                                                                                                         |
+## pip conda
+
+### pip
+
+```cmd
+## install this package
+pip install -e .
+```
+
 
 
 

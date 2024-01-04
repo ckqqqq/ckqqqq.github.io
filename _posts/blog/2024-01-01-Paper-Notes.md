@@ -218,23 +218,35 @@ Abstract:
 
 * **Keyword**：Multiple LLM-based agents for task-solving and simulation,
   Link
-
 * **Github**: <https://github.com/OpenBMB/AgentVerse>
-
 * **Demo**:  <https://github.com/OpenBMB/AgentVerse>
-  Evaluate
-
-* **Usefulness(1~5)**: 4
-
+* **OpenReview[review+rebuttal]** <https://openreview.net/forum?id=EHg5GDnyq1> highlight&highquality
+* **Usefulness(1~5)**: 5
 * **Timing**: Aug,2023
+* **Intensive Reading**: Todo Openreview & code 
 
-* **Intensive Reading**: TODO 
+####　Abstract:
 
-* Abstract: **AgentVerse** is designed to facilitate the deployment of multiple LLM-based agents in various applications. AgentVerse primarily provides two frameworks: **task-solving** and **simulation**.
+* AGENTVERSE that can effectively orchestrate a collaborative group of expert agents
+  as a **greater-than-the-sum-of-its-parts system.** 
+
+*  **AgentVerse** is designed to facilitate the deployment of multiple LLM-based agents in various applications. AgentVerse primarily provides two frameworks: **task-solving** and **simulation**.
 
   * Task-solving: This framework assembles multiple agents as an automatic multi-agent system ([AgentVerse-Tasksolving](https://arxiv.org/pdf/2308.10848.pdf), [Multi-agent as system](https://arxiv.org/abs/2309.02427)) to collaboratively accomplish the corresponding tasks. Applications: software development system, consulting system, etc.
 
   [![Screen Shot 2023-09-01 at 12 08 57 PM](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/264917097-6db1c907-b7fc-42f9-946c-89853a28f386.png)](https://private-user-images.githubusercontent.com/11704492/264917097-6db1c907-b7fc-42f9-946c-89853a28f386.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5Mzc5MDgsIm5iZiI6MTcwMzkzNzYwOCwicGF0aCI6Ii8xMTcwNDQ5Mi8yNjQ5MTcwOTctNmRiMWM5MDctYjdmYy00MmY5LTk0NmMtODk4NTNhMjhmMzg2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDEyMDAwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwNDk5Mjk1ZGM5MTBjODE5NzA0ZTFhYTVhNTlkMDViNWYwYjVkOTYyMDdmMmVmNGU0ZGNkZTI3OGVmNmI1NjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LcJ8qjM00WMDeCV6cjraehSUPn8XpQfA2Y43OGCk6Eg)
+
+* AgentVerse splitst the problem-solving process into four pivotal Stages as shown in Figure 2
+
+  * **Expert Recruitment** (还需要招募专家？): 
+
+  * <img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102164930868.png" alt="image-20240102164930868" style="zoom:25%;" />
+
+  * **Collaborative Decision Making**
+
+    <img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102164948596.png" alt="image-20240102164948596" style="zoom:25%;" />
+
+  * **Action Execution**
 
   * Simulation: This framework allows users to set up custom environments to observe behaviors among, or interact with, multiple agents. ⚠️⚠️⚠️ We're refactoring the code. If you require a stable version that exclusively supports simulation framework, you can use [`release-0.1`](https://github.com/OpenBMB/AgentVerse/tree/release-0.1) branch. Applications: game, social behavior research of LLM-based agents, etc.
 
@@ -242,29 +254,115 @@ Abstract:
 
 ### CharacterChat 【Role-Play Agents】
 
-* Keyword： Personalized Social Support = Emotional Support + Multi Agents, MBTI Persona Scale.
+* Keyword： Personalized Social Support = Emotional Support + Multi Agents, MBTI Persona Scale+ wonderfuldataset
 
 * Link (<https://arxiv.org/abs/2308.10278>)
 
 * **Github**: <https://github.com/morecry/CharacterChat>
+
 * **Demo**:  
-Evaluate
+  Evaluate
+
 * **Usefulness(1~5)**: 5【TODO: reproduce】
+
 * **Timing**:  Aug 2023
+
 * **Intensive Reading**:
+
 * **TODO**: 20min code reading 
+
 * <font color=red> Proper noun learning</font>: ESC, social support
-Abstract: Traditional methods such as **Emotional Support Conversations (ESC)** face challenges in effectively addressing a diverse range of individual personalities. In response, we introduce the **Social Support Conversation (S2Conv)** framework. It comprises a series of support **agents** and the **interpersonal** **matching** mechanism, linking individuals with persona-compatible virtual supporters【Same as I thought in August】. Utilizing persona decomposition based on the MBTI (Myers Briggs Type Indicator)【a scale】, we have created the MBTI-1024 Bank, a group that of virtual characters with distinct profiles. Through improved role-playing prompts with behavior preset and dynamic memory, we facilitate the development of the MBTI-S2Conv dataset, which contains conversations between the characters in the MBTI-1024 Bank. Building upon these foundations, we present CharacterChat, a comprehensive S2Conv system, which includes a conversational model driven by personas and memories, along with an **interpersonal matching plugin model** 【Calculate Attention between personality 】 that dispatches the optimal supporters from the MBTI-1024 Bank for individuals with specific personas. Empirical results indicate the remarkable efficacy of CharacterChat in providing personalized social support and highlight the substantial advantages derivedfrom interpersonal matching. The source code is available in <https://github.com/morecry/CharacterChat>.
 
-## Extended Reading 
+  #### Abstract:
 
-## Scaling LLM
+* Traditional methods such as **Emotional Support Conversations (ESC)** face challenges in effectively addressing a diverse range of individual personalities. In response, we introduce the **Social Support Conversation (S2Conv)** framework. It comprises a series of support **agents** and the **interpersonal** **matching** mechanism, linking individuals with persona-compatible virtual supporters【Same as I thought in August】. Utilizing persona decomposition based on the MBTI (Myers Briggs Type Indicator)【a scale】, we have created the MBTI-1024 Bank, a group that of virtual characters with distinct profiles. Through improved role-playing prompts with behavior preset and dynamic memory, we facilitate the development of the MBTI-S2Conv dataset, which contains conversations between the characters in the MBTI-1024 Bank. Building upon these foundations, we present CharacterChat, a comprehensive S2Conv system, which includes a conversational model driven by personas and memories, along with an **interpersonal matching plugin model** 【Calculate Attention between personality 】 that dispatches the optimal supporters from t**he MBTI-1024 Bank** for individuals with specific personas. Empirical results indicate the remarkable efficacy of CharacterChat in providing personalized social support and highlight the substantial advantages derivedfrom interpersonal matching. The source code is available in <https://github.com/morecry/CharacterChat>.
+
+  #### Methodology
+
+  Within the S2Conv framwork
+
+  * Characters profiles include the **persona（Name, Gender, Tone, Personality） and dynamic memory**
+  * Memory:
+    * Housing multifaceted factual knowledge as sociated with a character-> as contextual reference
+    * triggers for seekers mental health problem
+    * 就是使用memory作为事实验证
+    * **Supporters Sharing similar background with seekers** [interesting]
+
+  ##### Difference between Information Support and Emotional Support
+
+   ![image-20240102152650148](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102152650148.png)
+
+  #### Data
+
+  * Create characters with chat GPT
+
+    ![image-20240104104102283](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240104104102283.png)
+    
+    ![image-20240102152405520](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102152405520.png)
+
+##### Offered Dataset
+
+>  MBTI-S2Conv dataset
+
+<img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102153139639.png" alt="image-20240102153139639" style="zoom:33%;" />
+
+##### Evaluate MBTI-S2Conv【典型的认知行为疗法】
+
+* **Emotional Improvement**: Does the conversation improve the emotional state of the seeker?
+* **Problem Solving**: Is the problem solved after conversation?
+* **Active Engagement**: Is the seeker actively **engaged in the conversation？**【interesting】
+
+#### Overview
+
+![image-20240102153715973](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102153715973.png)
+
+> HHHH, this paper just make chatGPT agent play role-play game, and them expand dataset, and than dynamic retrieve examples for reference.
+
+![image-20240102155221352](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102155221352.png)
+
+> And this paper also evaluate How different personalities can influent the emotional dialog 
+
+#### Highlights
+
+* **Evaluation using ChatGPT and other LLMs**
+
+* **Beautiful Code for dynamic memory**
+
+* **MBTI-dataset**
+
+* **How to expand dataset with ChatGPT**
+
+  
+
+<img src="https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102155000886.png" alt="image-20240102155000886" style="zoom:25%;" />
+
+
+
+## Extended Reading
+
+### What is the autonomous agent？
+
+> Autonomous agents are software programs which respond to states and events in their environment independent from direct instruction by the user or owner of the agent, but acting on behalf and in the interest of the owner. 
+
+##### Reference
+
+* General autonomous agents capable of reasoning and decision-making in a variety of environments
+  (Wooldridge & Jennings, 1995) have been of longstanding interest in the field of artificial intelli-
+  gence.[[2310.04406\] Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models (arxiv.org)](https://arxiv.org/abs/2310.04406)
+
+* [Autonomous Agents - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/B0080430767005349)
+
+##### Abstract
+
+Autonomous agents are software programs which **respond to states and events in their environment independent** from direct instruction by the user or owner of the agent, but acting **on behalf** and **in the interest of the owner**. The term agent is not defined precisely, and agent software can range from simple programs composed of a small number of rules to large and complex systems. Agent technology was developed in artificial intelligence (AI) research, and can include complex AI techniques. Important application areas are those where the human user can benefit from continuous data analysis, monitoring of data streams and large databases, and where routine reactions to events are required. Many applications are related to user interface technology and the Internet**. A weak position sees agents as tools** which relieve humans from routine tasks suited to computational solutions, but there is also a strong position which asserts that agents can be constructed to mimic or even surpass cognitive functions of the human.
+
+### How to Scaling LLM
 
 ### SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling
 
 > 大道至简
 > "Simple is the best"
- 
+
 * Keyword: Scaling AI
 * Link: <https://arxiv.org/abs/2312.15166>
 * **Github**: Invalided
@@ -276,3 +374,64 @@ Evaluate
 * **Intensive Reading**: 
 * Its method is instinctive and instructive.
 * ![](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20231229151138905.png)
+
+### On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs
+
+### Title： On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs
+
+* **Keyword**: How to evaluate the psychological Portrayal画像 of LLMs, interesting 
+
+#### Link
+
+* **Github\ArXiv\ OpenReview**: 
+
+* **Demo**:  
+
+#### Evaluate
+
+* **Usefulness(1~5)**: 3
+* **Timing**: 
+* **Intensive Reading**: 
+
+#### Abstract
+
+Large Language Models (LLMs) have recently showcased their remarkable capacities, not only in natural language processing tasks but also across diverse domains such as clinical medicine, legal consultation, and education. LLMs become more than mere applications, evolving into assistants capable of addressing diverse user requests. This narrows the distinction between human beings and artificial intelligence agents, raising intriguing questions regarding the potential manifestation of personalities, temperaments, and emotions within LLMs. In this paper, we propose a framework, PPBench, for **evaluating diverse psychological aspects of LLMs**. Comprising thirteen scales commonly used in clinical psychology, **PPBench further classifies these scales into four distinct categorie**s: **personality traits,** interpersonal relationships, motivational tests, and emotional abilities. Our study examines five popular models, **namely text-davinci-003, ChatGPT, GPT-4, LLaMA-2-7b, and LLaMA-2-13b.** Additionally, we employ a jailbreak approach to bypass the safety alignment protocols and test the intrinsic natures of LLMs. We have made PPBench openly accessible via The link is hidden due to anonymity. For reviewers, please refer to the supplementary materials.
+
+
+
+### Markdown Template
+
+```python
+### Title
+
+* **Keyword**:
+
+#### Link
+
+* **Github\ArXiv\OpenReview**: 
+
+* **Demo**:  
+
+#### Evaluate
+
+* **Usefulness(1~5)**: 
+* **Timing**: 
+* **Intensive Reading**: 
+
+
+#### Abstract
+```
+
+
+
+## Ideas
+
+> Propose a new metrics to calculate efficiency [result / tokens, GPU ,step]
+
+## Comments / tips
+
+> OpenReview is a good website, with abundant review \ rebuttal. Interesting!
+> The number of emotional dialog related papers is so limited! (after 2023) Ah! ChatGPT eliminate many small domain researches.
+<!-- Emotional Dialog related papers are scarce -->
+<!-- 做个屁的共情对话，赶紧润了，妈的 -->
+<!-- 尽快测试agentVerse 吧，赶紧抄一个做可视化 -->
