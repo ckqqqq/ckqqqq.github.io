@@ -217,7 +217,9 @@ Abstract:
 * **Timing**: Aug,2023
 * **Intensive Reading**: Todo Openreview & code 
 
-####　Abstract:
+#### Intensive Reading: yes
+
+#####　Abstract
 
 * AGENTVERSE that can effectively orchestrate a collaborative group of expert agents
   as a **greater-than-the-sum-of-its-parts system.** 
@@ -244,7 +246,7 @@ Abstract:
 
   [![Screen Shot 2023-10-16 at 10 53 49 PM](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/275622325-4102d1e2-3fe7-4656-aa2c-a218ce1f2c95.png)](https://private-user-images.githubusercontent.com/11704492/275622325-4102d1e2-3fe7-4656-aa2c-a218ce1f2c95.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5Mzc5MDgsIm5iZiI6MTcwMzkzNzYwOCwicGF0aCI6Ii8xMTcwNDQ5Mi8yNzU2MjIzMjUtNDEwMmQxZTItM2ZlNy00NjU2LWFhMmMtYTIxOGNlMWYyYzk1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDEyMDAwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE0NTgyMzdiMjI4NDg3MzRkZTFmMzVmYTlmNjMzMTgwNTNkODQyZTY4NmU3MzAzOWVmODBjYzkwZmQ1MjU0YTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AeHkR0ZdsWHoJaduvXBB89ZKRWbkYvTljeRn5CMWho0)
 
-### CharacterChat 【Role-Play Agents】
+### Title：CharacterChat 【Role-Play Agents】
 
 * Keyword： Personalized Social Support = Emotional Support + Multi Agents, MBTI Persona Scale+ wonderfuldataset
 
