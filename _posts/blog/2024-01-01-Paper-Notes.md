@@ -69,8 +69,9 @@ Evaluate
 * **Timing**: Oct 25th, 2023
 * **Intensive Reading**: TODO
   Abstract:
-  He looks like he wrote a framework/system into two articles.This meod is similar with ReAct.
-  ![Alt text](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image.png)
+  He looks like he wrote a framework/system into two articles.This method is similar with ReAct.
+
+![Alt text](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image.png)
 
 ### Title: FIREACT: Toward LANGUAGE AGENT FINE-TUNING
 
@@ -263,9 +264,9 @@ Abstract:
 
 * **Intensive Reading**:
 
-* **TODO**: 20min code reading 
+* **TODO**: 20min code reading
 
-* <font color=red> Proper noun learning</font>: ESC, social support
+* **Proper noun learning:** ESC, social support
 
 #### Intensive Reading: yes
 
