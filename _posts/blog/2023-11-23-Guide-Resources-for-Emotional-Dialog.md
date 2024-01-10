@@ -2,13 +2,13 @@
 layout: post
 title: Research Resources for Emotional Dialog & Large language Model
 categories: blog
-description: A actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs.                                    
+description: An actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs.                                    
 keywords: AI Papers, Knowledge Base
 ---
 
 # Guide Resources
 
-A actively updated list of practical guide resources of Emotional dialog & multi-agent AI system & LLMs, including blogs, github repositories and AI experts.
+An actively updated list of practical guide resources of Emotional dialog & multi-agent AI systems & LLMs, including blogs, the Github repositories and AI experts.
 
 ---------
 
@@ -19,8 +19,8 @@ A actively updated list of practical guide resources of Emotional dialog & multi
 
 ### Experts \ Labs in LLM
 
-* [A former Tsinghua PHD/MBZUAI Researcher on multiple LM agents](https://yushengsu-thu.github.io/): Yusheng Su
-* [LLM:A CMU phd in Agent/LLM](https://frankxfz.me/):Oct
+* [A [former Tsinghua ](https://yushengsu-thu.github.io/)Ph.D.[/MBZUAI](https://yushengsu-thu.github.io/) Researcher on multiple LM agents](https://yushengsu-thu.github.io/): Yusheng Su
+* [LLM:A CMU PhD in Agent[/LLM](https://frankxfz.me/): Oct
 * [LLM:Shunyu Yao:LLM guru/reAct](https://ysymyth.github.io/):Super high quality papers
 * TODO:[LLM:A CMU phd in interactive LLM agents](https://www.zhuhao.me/publications)
 * [LLM:A CMU phd](https://cs.stanford.edu/~myasu/)
@@ -32,18 +32,18 @@ A actively updated list of practical guide resources of Emotional dialog & multi
 * [LLM:UCB phd:author of vicuna/prompt engineering](https://infwinston.github.io/)
 * [LLM:Tsinghua PHD:Prompt engineering](https://scholar.google.co.uk/citations?user=A8x07E0AAAAJ)
 * [LLM:UofT undergradute!:NLU](https://github.com/xwinxu)
-* [LLM:Prof. Pengfei Liu: alignment](https://scholar.google.com/citations?hl=en&user=oIz_CYEAAAAJ&view_op=list_works&sortby=pubdate)
+* [LLM:Prof. Pengfei Liu: Alignment](https://scholar.google.com/citations?hl=en&user=oIz_CYEAAAAJ&view_op=list_works&sortby=pubdate)
 * [LLM:RL:tianshou](https://youkaichao.github.io/research)
 * [LLM:](https://liuyanchen1015.github.io/)
 * [Prof: UBC:nlp](https://medium.com/analytics-vidhya/highlights-of-acl-2020-4ef9f27a4f0c)
-* [LLM:HKU:Lab](https://wabyking.github.io/old.html)
-* [LLM+Med:Microsoft:Lab](https://www.microsoft.com/en-us/research/publication/can-generalist-foundation-models-outcompete-special-purpose-tuning-case-study-in-medicine/)
-* [Diffusion-LM:Xiang Lisa](https://xiangli1999.github.io/)
+* [LLM:HKU: Lab](https://wabyking.github.io/old.html)
+* [LLM+Med:Microsoft: Lab](https://www.microsoft.com/en-us/research/publication/can-generalist-foundation-models-outcompete-special-purpose-tuning-case-study-in-medicine/)
+* [Diffusion-LM: Xiang Lisa](https://xiangli1999.github.io/)
 * [清华长发哥](https://www.1point3acres.com/bbs/home.php?mod=space&uid=844117&do=thread&type=reply&view=me&from=space) Todo： Find his blog
 
 ## Tech Blog Sets
 
-* [MIT tech Review](https://www.technologyreview.com/)
+* [MIT technology Review](https://www.technologyreview.com/)
 * [Chinese independent blogs](https://github.com/MisterBooo/chinese-independent-blogs)
   
 ## Emotional Dialog Resources
@@ -53,7 +53,7 @@ A actively updated list of practical guide resources of Emotional dialog & multi
 * [LINK](https://paperswithcode.com/search?q=author%3AYushan+Qian)
 * [EMPapers-Sahandfer-Prof.Huang](https://github.com/Sahandfer/EMPaper)
 <https://sahandfer.github.io>
-* [XiaoMi](https://github.com/XiaoMi/emma)
+* [Xiaomi](https://github.com/XiaoMi/emma)
 * Github keyword: Mechat/SMILE/ChatSoul
 
 ## LLM Papers / Blogs in LLM
@@ -62,8 +62,8 @@ A actively updated list of practical guide resources of Emotional dialog & multi
 * [Pretrain Model Papers:2021](http://pretrain.nlpedia.ai/)
 * [Lilian Weng's blog](https://lilianweng.github.io/)
 * [Awesome language agents](https://github.com/ysymyth/awesome-language-agents.git)
-
-## TOOLs / Lessons / Knowledge Bases
+  
+## Tools / Lessons / Knowledge Bases
 
 * <https://github.com/merrier/bupt-all-in-one>
 * <https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb>
@@ -74,21 +74,22 @@ A actively updated list of practical guide resources of Emotional dialog & multi
 * <http://jalammar.github.io/illustrated-transformer/>
 * <https://github.com/nouhadziri/DialogEntailment>
 * <https://github.com/yifeikong/reverse-interview-zh>
+* <https://wyydsb.xin/NLP/LLMLingua.html>
 
-## Others
+## Other Info
 
-* ChaoYang Zhang
+* Chaoyang Zhang
 * <https://dspace.mit.edu/bitstream/handle/1721.1/26861/30690840-MIT.pdf?sequence=2&isAllowed=y>
 
-### How to write a excellent rebuttal/ review
+### How to write an excellent rebuttal/ review
 
 * [Excellent rebuttal](https://openreview.net/forum?id=3CIQIYNGlp)
 * [OpenReview can view rebuttal/official review](https://openreview.net/forum?id=EHg5GDnyq1)
-* PS: Openreview is much clear than paper！It help you to catch up the latest trend.
+* PS: The OpenReview are much easier to understand than papers! It help you to catch up the latest trends.
 * ![image-20240102185458660](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102185458660.png)
 ### Friends
 
-* [xinyang：IEEE fellow in next decade.](https://github.com/xinyanghuang7/xinyanghuang7.github.io)
+* [Xinyang: IEEE fellow in the next decade.](https://github.com/xinyanghuang7/xinyanghuang7.github.io)
 
 ### Classmate
 

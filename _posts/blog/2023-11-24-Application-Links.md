@@ -6,7 +6,7 @@ description: I will update my personal information on this page, such as the sta
 keywords: AI Papers, Publications
 ---
 
-<!-- I will update my personal information on this page, which include status of paper, new interns, and so on. -->
+
 Welcome! I am regularly updating this page, adding my personal information from November 2023, including the latest paper submissions, new open-source projects, and other relevant materials. The updated information will serve as a supplement to my uploaded CV. 
 
 <!-- ************************************************* -->
@@ -57,7 +57,7 @@ If you would like to preview our paper, please click here-> [link](https://drive
 
 #### News
 
-12-01 Our paper was accept by NCMMSC 2023！It will be presented as an **oral presentation** at the 2023 National Conference on Man-Machine Speech Communication.
+12-01 Our paper was accepted by NCMMSC 2023! It will be presented as an **oral presentation** at the 2023 National Conference on Man-Machine Speech Communication.
 
 12-08 I gave a presentation at the [NCMMSC 2023](http://www.ncmmsc.org.cn/dhrc/).
 
