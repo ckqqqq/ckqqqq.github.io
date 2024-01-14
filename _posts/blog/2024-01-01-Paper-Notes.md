@@ -36,6 +36,70 @@ Welcome! This blog contains my notes on reading papers related to LMs-agents and
 * **Usefulness(1~5)**: 
 * **Timing**: 
 
+##### Abstract### Title 【】
+
+* **Keyword**:
+
+#### Link
+
+* **Github\ArXiv**: 
+
+* **Demo**:  
+
+#### Evaluate
+
+* **Usefulness(1~5)**: 
+* **Timing**: 
+* **Intensive Reading**: 
+
+#### Abstract### Title
+
+* **Keywords**:
+#### Intensive Reading 
+
+##### Link
+
+* **Github\ArXiv**: 
+
+* **Demo**:  
+
+##### Evaluate
+
+* **Usefulness(1~5)**: 
+* **Timing**: 
+
+##### Abstract### Title 【】
+
+* **Keyword**:
+
+#### Link
+
+* **Github\ArXiv**: 
+
+* **Demo**:  
+
+#### Evaluate
+
+* **Usefulness(1~5)**: 
+* **Timing**: 
+* **Intensive Reading**: 
+
+#### Abstract### Title
+
+* **Keywords**:
+#### Intensive Reading 
+
+##### Link
+
+* **Github\ArXiv**: 
+
+* **Demo**:  
+
+##### Evaluate
+
+* **Usefulness(1~5)**: 
+* **Timing**: 
+
 ##### Abstract
 ```
 
@@ -381,7 +445,27 @@ Evaluate MBTI-S2Conv【典型的认知行为疗法】
 * **Timing**:  08 Oct 2023
 * **Intensive Reading**: Reproducing
 
-#### Abstract
+
+<!-- Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning
+ -->
+
+### Title: Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning
+
+* **Keyword**: Similar to my idea in NCMMSC
+
+##### Link
+
+* **Github\ArXiv**: 
+
+* **Demo**:   <https://github.com/lwgkzl/MultiESC>
+
+##### Evaluate
+
+* **Usefulness(1~5)**: I saw the code
+* **Timing**: 
+* **Intensive Reading**: 
+
+##### Abstract
 
 ## Extended Reading
 

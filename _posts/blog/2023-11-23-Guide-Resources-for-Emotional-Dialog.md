@@ -19,6 +19,7 @@ An actively updated list of practical guide resources of Emotional dialog & mult
 
 ### Experts \ Labs in LLM
 
+* [The Frist Author of Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models](https://sincerass.github.io/)
 * [A [former Tsinghua ](https://yushengsu-thu.github.io/)Ph.D.[/MBZUAI](https://yushengsu-thu.github.io/) Researcher on multiple LM agents](https://yushengsu-thu.github.io/): Yusheng Su
 * [LLM:A CMU PhD in Agent[/LLM](https://frankxfz.me/): Oct
 * [LLM:Shunyu Yao:LLM guru/reAct](https://ysymyth.github.io/):Super high quality papers
@@ -43,6 +44,7 @@ An actively updated list of practical guide resources of Emotional dialog & mult
 
 ## Tech Blog Sets
 
+* **[huggingface blog](https://huggingface.co/blog/zh/moe)**
 * [MIT technology Review](https://www.technologyreview.com/)
 * [Chinese independent blogs](https://github.com/MisterBooo/chinese-independent-blogs)
   
