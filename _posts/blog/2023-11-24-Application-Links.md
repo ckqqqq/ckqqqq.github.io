@@ -53,17 +53,17 @@ Emotional Support Dialog System Through Recursive Interactions Among Large Langu
 
 #### Paper Link
 
-If you would like to preview our paper, please click here-> [link](https://drive.google.com/file/d/1I5xA7BCF_-76uwoq4oje8edMpLz2k7JC/view?usp=sharing). And, our paper will be published in the Springer CCIS series of journals within a few weeks
+If you would like to preview our paper, please click here-> [link](https://link.springer.com/chapter/10.1007/978-981-97-0601-3_13) [link_Google_drive](https://drive.google.com/file/d/1I5xA7BCF_-76uwoq4oje8edMpLz2k7JC/view?usp=sharing). And, our paper will be published in the Springer CCIS series of journals within a few weeks
 
 #### News
 
 12-01 Our paper was accepted by NCMMSC 2023! It will be presented as an **oral presentation** at the 2023 National Conference on Man-Machine Speech Communication.
 
-12-08 I gave a presentation at the [NCMMSC 2023](http://www.ncmmsc.org.cn/dhrc/).
+12-08 I gave a presentation at the [NCMMSC 2023](https://link.springer.com/conference/ncmmsc).
 
-[Collected-Paper](https://x-lance.sjtu.edu.cn/en/ncmmsc2023/NCMMSC2023.zip) [PPT](https://docs.google.com/presentation/d/1kz2o67dos7czjPeO7HKPIEyiRM7acuyE/edit?usp=drive_link&ouid=115413132041558152903&rtpof=true&sd=true)
+[Collected-Papers-zip](https://x-lance.sjtu.edu.cn/en/ncmmsc2023/NCMMSC2023.zip) [PPT](https://docs.google.com/presentation/d/1kz2o67dos7czjPeO7HKPIEyiRM7acuyE/edit?usp=drive_link&ouid=115413132041558152903&rtpof=true&sd=true)
 
-12-11 Our paper was recommended to **Springer Proceedings of Springer Communications in Computer and Information Science** [CCIS](https://www.springer.com/series/7899). Our paper will be published in the Springer CCIS series of journals within a few weeks.
+12-11 Our paper was recommended to **Springer Proceedings of Springer Communications in Computer and Information Science** [CCIS](https://link.springer.com/chapter/10.1007/978-981-97-0601-3_13). Our paper will be published in the Springer CCIS series of journals within a few weeks.
 
 ## Under review
 
