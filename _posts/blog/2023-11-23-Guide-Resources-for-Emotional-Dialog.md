@@ -8,32 +8,40 @@ keywords: AI Papers, Knowledge Base
 
 # Guide Resources
 
-An actively updated list of practical guide resources of Emotional dialog & multi-agent AI systems & LLMs, including blogs, the Github repositories and AI experts.
+An actively updated list of practical guide resources of Emotional dialog & multi-agent AI systems & LLMs, including blogs, GitHub repositories and AI experts.
 
 ---------
 
 
-## AI experts
+## NLP Beginner
 
+### Code
 
+* [Huggingface lessons](https://huggingface.co/learn/nlp-course/chapter1/1)
+
+## Research
+
+### Traditional Papers
+
+* [Top 10 Must-Read Papers for ChatGPT](https://hub.baai.ac.cn/view/24227)
 
 ### Experts \ Labs in LLM
 
-* [The Frist Author of Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models](https://sincerass.github.io/)
-* [A [former Tsinghua ](https://yushengsu-thu.github.io/)Ph.D.[/MBZUAI](https://yushengsu-thu.github.io/) Researcher on multiple LM agents](https://yushengsu-thu.github.io/): Yusheng Su
-* [LLM:A CMU PhD in Agent[/LLM](https://frankxfz.me/): Oct
-* [LLM:Shunyu Yao:LLM guru/reAct](https://ysymyth.github.io/):Super high quality papers
-* TODO:[LLM:A CMU phd in interactive LLM agents](https://www.zhuhao.me/publications)
-* [LLM:A CMU phd](https://cs.stanford.edu/~myasu/)
-* [LLM:phd:One of alpaca's authors](https://scholar.google.com/citations?hl=en&user=OI0HSa0AAAAJ&view_op=list_works&sortby=pubdate)
-* [LLM:phd:Instruction of LLMs](https://yizhong-wang.com/)
+* [The first author of Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models](https://sincerass.github.io/)
+* [A former Tsinghua Ph.D: Agent Expert](https://yushengsu-thu.github.io/)Ph.D.[/MBZUAI](https://yushengsu-thu.github.io/) Researcher on multiple LM agents](https://yushengsu-thu.github.io/): Yusheng Su
+* [LLM: CMU PhD in Agent[/LLM](https://frankxfz.me/): Oct
+* [LLM: Shunyu Yao: the first author of reAct](https://ysymyth.github.io/): High-quality papers
+* TODO:[LLM: A CMU PhD in interactive LLM agents](https://www.zhuhao.me/publications)
+* [LLM: A CMU PhD](https://cs.stanford.edu/~myasu/)
+* [LLM: alpaca's author](https://scholar.google.com/citations?hl=en&user=OI0HSa0AAAAJ&view_op=list_works&sortby=pubdate)
+* [LLM: PhD: Instruction of LLMs](https://yizhong-wang.com/)
 * [Emotional dialog](https://github.com/MaLiN2223?tab=repositories)
 * [OpenAI Employee:n+e](https://trinkle23897.github.io/posts/application)
 * [Prof. Tang:](http://keg.cs.tsinghua.edu.cn/jietang/)
-* [LLM:UCB phd:author of vicuna/prompt engineering](https://infwinston.github.io/)
-* [LLM:Tsinghua PHD:Prompt engineering](https://scholar.google.co.uk/citations?user=A8x07E0AAAAJ)
-* [LLM:UofT undergradute!:NLU](https://github.com/xwinxu)
-* [LLM:Prof. Pengfei Liu: Alignment](https://scholar.google.com/citations?hl=en&user=oIz_CYEAAAAJ&view_op=list_works&sortby=pubdate)
+* [LLM: UCB PhD: author of Vicuna/prompt engineering](https://infwinston.github.io/)
+* [LLM: Tsinghua PhD: Prompt engineering](https://scholar.google.co.uk/citations?user=A8x07E0AAAAJ)
+* [LLM: UofT undergraduate!: NLU](https://github.com/xwinxu)
+* [LLM: Prof. Pengfei Liu: an expert in Alignment](https://scholar.google.com/citations?hl=en&user=oIz_CYEAAAAJ&view_op=list_works&sortby=pubdate)
 * [LLM:RL:tianshou](https://youkaichao.github.io/research)
 * [LLM:](https://liuyanchen1015.github.io/)
 * [Prof: UBC:nlp](https://medium.com/analytics-vidhya/highlights-of-acl-2020-4ef9f27a4f0c)
@@ -44,8 +52,9 @@ An actively updated list of practical guide resources of Emotional dialog & mult
 
 ## Tech Blog Sets
 
-* **[huggingface blog](https://huggingface.co/blog/zh/moe)**
-* [MIT technology Review](https://www.technologyreview.com/)
+* [Chinese Community of AI Papers](https://hub.baai.ac.cn/papers)
+* **[hugging face blog](https://huggingface.co/blog/zh/moe)**
+* [MIT Technology Review](https://www.technologyreview.com/)
 * [Chinese independent blogs](https://github.com/MisterBooo/chinese-independent-blogs)
   
 ## Emotional Dialog Resources
@@ -87,7 +96,7 @@ An actively updated list of practical guide resources of Emotional dialog & mult
 
 * [Excellent rebuttal](https://openreview.net/forum?id=3CIQIYNGlp)
 * [OpenReview can view rebuttal/official review](https://openreview.net/forum?id=EHg5GDnyq1)
-* PS: The OpenReview are much easier to understand than papers! It help you to catch up the latest trends.
+* PS: The OpenReview is much easier to understand than papers! It helps you to catch up on the latest trends.
 * ![image-20240102185458660](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20240102185458660.png)
 ### Friends
 

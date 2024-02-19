@@ -67,4 +67,4 @@ If you would like to preview our paper, please click here-> [link](https://drive
 
 ## Under review
 
-12-15 A paper submitted to [ARR](http://aclrollingreview.org/). I will introduce the paper as soon as the peer review is over.
+2-15 A paper submitted to [ARR](http://aclrollingreview.org/). I will introduce the paper as soon as the peer review is over.

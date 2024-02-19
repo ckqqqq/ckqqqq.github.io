@@ -431,7 +431,7 @@ Evaluate MBTI-S2Conv【典型的认知行为疗法】
 
 ### Title: Towards Interpretable Mental Health Analysis with Large Language Models
 
-* **Keywords**: Kailai Yang, analysing emotional posts using ChatGPT, authors of mental-roberta
+* **Keywords**: Kailai Yang, analyzing emotional posts using ChatGPT, authors of mental-roberta
 
 #### Link
 
@@ -467,6 +467,43 @@ Evaluate MBTI-S2Conv【典型的认知行为疗法】
 
 ##### Abstract
 
+
+### The Mixture of Expert Language Models
+
+#### Inference MoE model in 3090
+
+* <https://hub.baai.ac.cn/paper/9f4b7563-4151-429d-8ecb-f9963097d267>
+
+### Interesting Papers
+
+#### How to avoid LLM forgot prompts/instructions (NeruIPS 2023)
+
+* <https://hub.baai.ac.cn/view/34158>
+
+#### What kind of data is perfect for LLM's taste
+
+* <https://hub.baai.ac.cn/paper/c1d59b4e-c87f-4e78-84e5-b7a621dcd6c5>
+
+#### how can LLM learn from intermediate multi-steps in reasoning (process-oriented)
+
+* Automatically make multi-step math dataset
+* <https://hub.baai.ac.cn/paper/0fe070a4-5415-41ec-ae4d-7ef849658d67>
+
+#### Align Human Intent and add toxicity later
+
+* <https://hub.baai.ac.cn/paper/76df880f-63d3-4a18-9a00-8187a8d55665>
+
+#### Initializing Small Models With Pretrained Large Language Models
+
+* <https://hub.baai.ac.cn/paper/86ed8347-334a-4d7f-846a-1d1105e13d60>
+
+####
+
+### Few shot
+
+<!-- PROMPT POOL BASED CLASS-INCREMENTAL CONTINUAL LEARNING FOR DIALOG
+STATE TRACKING -->
+
 ## Extended Reading
 
 ### What is the autonomous agent？
@@ -482,26 +519,24 @@ Evaluate MBTI-S2Conv【典型的认知行为疗法】
 
 Autonomous agents are software programs that **respond**** to states** and events in their environment independent** from direct instruction by the user or owner of the agent, but acting **on behalf** and **in the interest of the owner**. The term agent is not defined precisely, and agent software can range from simple programs composed of a small number of rules to large and complex systems. Agent technology was developed in artificial intelligence (AI) research and can include complex AI techniques. Important application areas are those where the human user can benefit from continuous data analysis, monitoring of data streams and large databases, and where routine reactions to events are required. Many applications are related to user interface technology and the Internet**. A weak position sees agents as tools** that relieve humans from routine tasks suited to computational solutions, but there is also a strong position that asserts that agents can be constructed to mimic or even surpass the cognitive functions of the human.
 
-### How to Scaling LLM
 
-#### SOLAR 10.7B
+### What is the in-context learning？
 
-**SOLAR 10.7B Scaling Large Language Models with Simple yet Effective Depth Up-Scaling**
+Transformers can learn from context. They can build new predictors from a sequence of labeled examples without having to retrain the entire model.
 
-> 大道至简
-> "Simple is the best"
+Suppose you have a model that can identify objects from a photo. If you show the model a new photo of an object you've never seen before, the model can use context learning to identify the object.
 
-* Keywords: Scaling AI
-* Link: <https://arxiv.org/abs/2312.15166>
-* **Github**: Invalided
-* **Demo**:  <https://huggingface.co/upstage/SOLAR-10.7B-v1.0>
-* Chinese Blog: <https://mp.weixin.qq.com/s/uXkLQGd1J8AYh5I5LwWskQ>
-Evaluate
-* **Usefulness(1~5)**: 2
-* **Timing**: 
-* **Intensive Reading**: 
-* Its method is instinctive and instructive.
-* ![](https://ckqqqq-qiker-image-service.oss-cn-beijing.aliyuncs.com/typora-image/image-20231229151138905.png)
+Suppose you have a model that can generate translations from a piece of text. If you give the model a new sentence, the model can use context learning to generate a more accurate and fluent translation.
+
+##### reference
+
+Link：<https://arxiv.org/pdf/2211.15661.pdf>
+
+### What are four Paradigms in NLP
+
+![Alt text](image-2.png)
+
+Link:<https://dl.acm.org/doi/pdf/10.1145/3560815>
 
 #### Title： On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs
 
@@ -555,10 +590,11 @@ Large Language Models (LLMs) have recently showcased their remarkable capacities
 * VISUO-EMOTIONAL PERCEPTION AND HUMAN COGNITI0ON TO ENGINEER CONTENT GENERATION USING GENERATIVE AI
 * Aligning Language Models with Human Preferences via a Bayesian Approach. [long-term works]
 * [Complementary Explanations for Effective In-Context Learning](https://arxiv.org/abs/2211.13892) []
+* [Controllable Mixed-Initiative Dialogue Generation through Prompting](https://arxiv.org/abs/2305.04147#:~:text=Controllable%20Mixed%2DInitiative%20Dialogue%20Generation%20through%20Prompting,-Maximillian%20Chen%2C%20Xiao&text=Mixed%2Dinitiative%20dialogue%20tasks%20involve,prescribed%20by%20a%20policy%20planner.)
 
 ## Ideas
 
-* Propose new metricses to calculate efficiency [result/tokens, GPU, step]
+* Propose new metrics to calculate efficiency [result/tokens, GPU, step]
 
 ## Comments/tips
 
@@ -566,9 +602,11 @@ Large Language Models (LLMs) have recently showcased their remarkable capacities
 * The number of emotional dialog papers is so limited! (after 2023) Ah! The ChatGPT eliminates many small domain researches.
 * <https://openreview.net/forum?id=e5UzmaR8EE>
 * An Annotated Dataset for Explainable Interpersonal Risk Factors of Mental Disturbance in Social Media Posts [ACL2023 FINDING]
-* [YeRyeongLee/mental-bert-base-uncased-finetuned-0505 · Adding `safetensors` variant of this model (huggingface.co)](https://huggingface.co/YeRyeongLee/mental-bert-base-uncased-finetuned-0505/discussions/1) Reproduce
+* [YeRyeongLee/mental-bert-base-uncased-finetuned-0505 · Adding safe-tensors variant of this model (www.huggingface.co)](https://huggingface.co/YeRyeongLee/mental-bert-base-uncased-finetuned-0505/discussions/1) Reproduce
 * [mental/mental-bert-base-uncased · Hugging Face](https://huggingface.co/mental/mental-bert-base-uncased) Reproduce
 * <!-- 其实现在就是两个可以借鉴的地方，第一个就是agent！agent think tank +人工评测+第二就是加上token/时间 Tokens/显存 计算的agent智囊团 后面再探索自我组织！ 下一步探索什么？agent 相关度？让孙泽楷负责写streamlit 我必须竟可能快的实现动态提示改写-动态内存-多智能体改写-多智能体自组织！先实现功能，再重写代码 尽快推进 -->
+<!-- * 其实我的问题在于我的代码一直在变，应当确定我要做啥
+  -->
 * <!-- Emotional Dialog papers are scarce -->
 <!-- 做个屁的共情对话，赶紧润了，妈的 -->
 <!-- 尽快测试agentVerse 吧，赶紧抄一个做可视化 -->
