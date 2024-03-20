@@ -1,23 +1,16 @@
 ---
 layout: post
-title: 字节实习准备
+title: 实习准备2
 categories: blog
 description:                                     
 keywords: 
-
 ---
-
-
-
-
 
 # 字节实习准备
 
 ## 字节实习要求
 
 ### 大致实习要求
-
-
 
 智能对话 内容理解 多模态 nlp 算法风险识别 流畅自我介绍 每个项目思考 职业方向 nlp的算法基础
 
@@ -37,8 +30,6 @@ keywords:
 
 * NLP的算法基础
 * 简历上每个详细的项目，细节
-
-
 
 #### 面试时间
 
