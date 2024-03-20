@@ -21,7 +21,7 @@ keywords:
 
 ###
 
-Microsoft真是一家非常神奇的企业，https://sql.keqichen.top 这个demo救了我，决定去stca了。
+Microsoft真是一家非常神奇的企业，[https://sql.keqichen.top ](https://sql.keqichen.top/)这个demo救了我，源码我有时间就开源，决定去stca了。
 
 ## 实习准备
 
