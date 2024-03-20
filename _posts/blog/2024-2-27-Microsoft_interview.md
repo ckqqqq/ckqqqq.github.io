@@ -16,7 +16,14 @@ keywords:
 
 
 ## 二面心得
-微软真是一家非常神奇的企业，https://sql.keqichen.top 这个demo救了我，决定去stca了。
+
+没想象中的那么难，非常意外。我现学的spark和sql没有谈很多，倒是聊了很多的深度学习的东西。
+
+###
+
+Microsoft真是一家非常神奇的企业，https://sql.keqichen.top 这个demo救了我，决定去stca了。
+
+## 实习准备
 
 ## 提升 Coding 能力是重中之重
 
